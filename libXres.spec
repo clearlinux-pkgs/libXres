@@ -4,7 +4,7 @@
 #
 Name     : libXres
 Version  : 1.2.0
-Release  : 10
+Release  : 11
 URL      : http://xorg.freedesktop.org/releases/individual/lib/libXres-1.2.0.tar.gz
 Source0  : http://xorg.freedesktop.org/releases/individual/lib/libXres-1.2.0.tar.gz
 Summary  : X Resource Information Extension Library
